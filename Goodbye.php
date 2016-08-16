@@ -1,3 +1,3 @@
 <?
-	echo "Goodbye!";
+	echo "Goodbye";
 ?>
